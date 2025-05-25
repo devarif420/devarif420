@@ -1,6 +1,8 @@
+![Front-End Developer | WordPress Expart](https://i.ibb.co/XZ0G37d5/Black-and-Gold-Simple-Modern-Geometric-Law-Consultant-Linked-In-Banner-1.png)
+
 ### Hi there 👋, I'm Arif Jaham
 #### Front-End Developer | WordPress Expart
-![Front-End Developer | WordPress Expart](https://i.ibb.co/XZ0G37d5/Black-and-Gold-Simple-Modern-Geometric-Law-Consultant-Linked-In-Banner-1.png)
+
 
 Hi, I’m a passionate Frontend Web Developer and WordPress Expert with a strong focus on delivering clean, responsive, and user-friendly web experiences. I specialize in crafting modern UI with technologies like ReactJS, JavaScript, and Tailwind CSS, while also building powerful and customizable websites using WordPress.
 
