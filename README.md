@@ -1,4 +1,4 @@
-(https://i.ibb.co/XZ0G37d5/Black-and-Gold-Simple-Modern-Geometric-Law-Consultant-Linked-In-Banner-1.png)
+https://i.ibb.co/XZ0G37d5/Black-and-Gold-Simple-Modern-Geometric-Law-Consultant-Linked-In-Banner-1.png
 
 ### Hi there 👋, I'm Arif Jaham
 #### Front-End Developer | WordPress Expart
