@@ -1,29 +1,23 @@
-<h1 align="center">👋 Hello, I am Md Arif Jahan</h1>
+<h1 align="center">👋 Hello, I am Arif Jahan</h1>
 <h3 align="center">Professional WordPress & Frontend Developer | Elementor Expert | React Specialist</h3>
 
 <p align="center">
-🌍 I'm a full-stack WordPress developer from Bangladesh specializing in custom themes, plugins, and Elementor websites.<br/>
-💻 I build high-performance websites using WordPress, Elementor, React, and modern frontend technologies.<br/>
-🚀 3+ years experience creating 50+ WordPress sites with pixel-perfect designs and optimized performance.
+🌍 I'm a WordPress & Frontend developer from Bangladesh specializing in custom themes, plugin development, and modern UI design.<br/>
+💻 I build high-performance, responsive websites using WordPress, Elementor, HTML, CSS, JavaScript, React, Tailwind CSS, and Bootstrap.<br/>
+🚀 I have hands-on experience building WordPress and frontend projects that follow best practices, deliver great UX, and are optimized for speed & performance.
 </p>
 
 ---
 
 ### 🚀 What I'm Currently Doing:
-- 🔭 Building **WordPress Websites with Elementor & Custom Themes**
-- 🌱 Learning **Advanced WordPress Development & WooCommerce**
-- 💬 Ask me about: **WordPress, Elementor, Frontend Development**
-- 🤝 Looking for: **WordPress Development Projects**
+- 🔭 Working on **React Projects & Custom WordPress Themes**
+- 🌱 Learning **Advanced WordPress Development**
+- 💬 Ask me about: **Frontend Development | WordPress | Elementor**
+- 🤝 Open for: **Frontend or WordPress Projects**
 
 ---
 
 ### 💻 Technologies I Use:
-
-#### 🖥️ WordPress & CMS:
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![Elementor](https://img.shields.io/badge/Elementor-92003B?style=flat-square&logo=elementor&logoColor=white)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
 #### 🎨 Frontend:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -32,6 +26,11 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+
+#### 🖥️ WordPress & CMS:
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![Elementor](https://img.shields.io/badge/Elementor-92003B?style=flat-square&logo=elementor&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white)
 
 #### 🔧 Other Skills:
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
