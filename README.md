@@ -29,8 +29,8 @@
 
 ### 📈 GitHub Stats:
 
-![Arif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arifwebdev&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arifwebdev&layout=compact&theme=radical)
+![Arif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devarif420)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devarif420)
 
 ---
 
@@ -38,7 +38,9 @@
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/arifjahan01))
 [![Instagram](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.instagram.com/arifjahan864/))
-📧 Email: **arifwebdev@gmail.com**
+[![Twitter](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.twitter.com/arifjahan864/))
+[![Pinterest](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.pinterest.com/mdarifjahan90/))
+📧 Email: **mdarifjahan138@gmail.com**
 
 ---
 
