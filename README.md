@@ -2,9 +2,8 @@
 <h3 align="center">Professional WordPress & Frontend Developer | Elementor Expert | React Specialist</h3>
 
 <p align="center">
-🌍 I'm a WordPress & Frontend developer from Bangladesh specializing in custom themes, plugin development, and modern UI design.<br/>
-💻 I build high-performance, responsive websites using WordPress, Elementor, HTML, CSS, JavaScript, React, Tailwind CSS, and Bootstrap.<br/>
-🚀 I have hands-on experience building WordPress and frontend projects that follow best practices, deliver great UX, and are optimized for speed & performance.
+Building high-performance WordPress sites & modern web apps<br/>
+Expert in Elementor, React, and responsive design
 </p>
 
 ---
