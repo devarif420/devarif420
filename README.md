@@ -1,10 +1,9 @@
 <h1 align="center">👋 Hello, I am Md Arif Jahan</h1>
-<h3 align="center">A Passionate Web Developer | React & Frontend Specialist</h3>
+<h3 align="center">A Passionate Web & WordPress Developer | React & Frontend Specialist</h3>
 
 <p align="center">
 🌍 I'm a frontend developer from Bangladesh. I create modern, beautiful, and responsive websites.<br/>
-💻 I love building UIs using HTML, CSS, JavaScript, React, Tailwind CSS, and Bootstrap.<br/>
-🧠 I also explore backend & programming using Python, C, and C++.
+💻 I love building UIs using HTML, CSS, JavaScript, React, Tailwind CSS, Bootstrap, and WordPress.<br/>
 </p>
 
 ---
@@ -12,8 +11,8 @@
 ### 🚀 What I’m Currently Doing:
 - 🔭 Working on a **React E-commerce Website**
 - 🌱 Learning **Next.js, Firebase, Framer Motion**
-- 💬 Ask me about: **Frontend Development & Responsive Design**
-- 🤝 Looking for: **Frontend collaboration opportunities**
+- 💬 Ask me about: **Frontend Development, WordPress & Responsive Design**
+- 🤝 Looking for: **Frontend or WordPress collaboration opportunities**
 
 ---
 
@@ -26,6 +25,7 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 
 #### 🔧 Programming Languages:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -51,6 +51,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/arifjahan864/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://www.twitter.com/arifjahan864/)
 [![Pinterest](https://img.shields.io/badge/Pinterest-BD081C?style=flat-square&logo=pinterest&logoColor=white)](https://www.pinterest.com/mdarifjahan90/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@devarif420)
 
 📧 Email: **mdarifjahan138@gmail.com**
 
