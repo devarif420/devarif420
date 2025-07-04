@@ -1,19 +1,45 @@
-![Front-End Developer | WordPress Expart](https://i.ibb.co/XZ0G37d5/Black-and-Gold-Simple-Modern-Geometric-Law-Consultant-Linked-In-Banner-1.png)
+<h1 align="center">👋 Hello, I am Md Arif Jahan</h1>
+<h3 align="center">A Passionate Web Developer | React & Frontend Specialist</h3>
 
-### Hi there 👋, I'm Arif Jaham
-#### Front-End Developer | WordPress Expart
+<p align="center">
+🌍 As a frontend developer from Bangladesh, I create modern and beautiful websites.
+💻 I love to design responsively with HTML, CSS, JavaScript and React.js.
+</p>
 
+---
 
-Hi, I’m a passionate Frontend Web Developer and WordPress Expert with a strong focus on delivering clean, responsive, and user-friendly web experiences. I specialize in crafting modern UI with technologies like ReactJS, JavaScript, and Tailwind CSS, while also building powerful and customizable websites using WordPress.
+### 🚀 What I am currently doing:
+- 🔭 Working on a **React E-commerce Project**
+- 🌱 Learning **Next.js, Firebase and Framer Motion**
+- 🤝 Looking for an opportunity to work on a frontend project
 
-Skills:  HTML / CSS/ TAILWIND CSS /REACT.JS
+---
 
-- 🔭 I’m currently working on Softcode Loop 
-- 🌱 I’m currently learning JavaScript 
-- 👯 I’m looking to collaborate on GitHub 
-- 💬 Ask me about Frontend Web Developer  
+### 💻 Technologies I use Do:
 
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shield s.io/badge/-React-61DAFB?style=flat-square&logo=react)
+![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20' >](https://github.com/https://github.com/devarif420)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='20'>](https://www.facebook.com/https://www.facebook.com/Arif%20Jahan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='20'>](https://www.instagram.com/https://www.instagram.com/arifjahan864/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com/ArifJahan30)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='20'>](https://devarifinfo.netlify.app/)  
+---
 
+### 📈 GitHub Stats:
 
+![Arif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arifwebdev&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arifwebdev&layout=compact&theme=radical)
+
+---
+
+### 🌐 Connect with me:
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/arifwebdev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/arifwebdev)
+📧 Email: **arifwebdev@gmail.com**
+
+---
+
+> ❤️ I believe that every website tells a story. I design those stories.
