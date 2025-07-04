@@ -39,13 +39,20 @@
 
 ---
 
-### 🏆 WordPress Services I Offer:
-- Custom WordPress Theme Development
-- Elementor Pro Website Building
-- WooCommerce Online Stores
-- WordPress Speed Optimization
-- Website Maintenance & Security
-- Responsive Design Implementation
+### 🏆 My Development Services:
+
+#### Frontend Development
+- Responsive Web Design
+- React Application
+- Performance Optimization
+- Cross-browser Compatibility
+
+#### WordPress Development
+- Custom WordPress Themes
+- Elementor Website Building
+- WooCommerce Solutions
+- WordPress Optimization
+- Maintenance & Security
 
 ---
 
